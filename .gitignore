@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+.env
+.idea/
+*.png
+
+lab3_fraud/data/*.zip
+lab3_fraud/data/*.csv
